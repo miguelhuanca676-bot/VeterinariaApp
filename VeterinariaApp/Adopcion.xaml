@@ -1,0 +1,30 @@
+﻿<Window x:Class="VeterinariaApp.AdopcionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Adopción" Height="500" Width="600"
+        Background="#E3F2FD" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Adopciones" FontSize="24" FontWeight="Bold"
+                       HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <!-- Botones de acciones -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+                <Button Content="Agregar Mascota" Height="40" Width="150"
+                        Background="#4CAF50" Foreground="White" FontWeight="Bold"
+                        Click="BtnAgregarMascota_Click" Margin="5"/>
+
+                <Button Content="Ver Adopciones" Height="40" Width="150"
+                        Background="#1976D2" Foreground="White" FontWeight="Bold"
+                        Click="BtnVerAdopciones_Click" Margin="5"/>
+            </StackPanel>
+
+            <!-- Grid de mascotas -->
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <WrapPanel Name="wpMascotas" HorizontalAlignment="Center"
+                           ItemHeight="150" ItemWidth="150"/>
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</Window>

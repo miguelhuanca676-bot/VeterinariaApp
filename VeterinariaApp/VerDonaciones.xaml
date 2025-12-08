@@ -1,0 +1,17 @@
+﻿<Window x:Class="VeterinariaApp.VerDonacionesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ver Donaciones" Height="400" Width="500"
+        WindowStartupLocation="CenterScreen" Background="#FFFDE7">
+
+    <Grid Margin="20">
+        <DataGrid Name="dgDonaciones" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Donante" Binding="{Binding Nombre}"/>
+                <DataGridTextColumn Header="Monto/Artículo" Binding="{Binding MontoArticulo}"/>
+                <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha}"/>
+                <DataGridTextColumn Header="Observaciones" Binding="{Binding Observaciones}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

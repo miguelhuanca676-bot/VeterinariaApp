@@ -1,0 +1,32 @@
+[
+  {
+    "NombreAdoptante": "Juan Miguel",
+    "Mascota": {
+      "Nombre": "Bowie",
+      "Raza": "Golden",
+      "Edad": 2,
+      "Sexo": "Macho",
+      "Diagnostico": "Sin enfermedades, totalmente sano",
+      "FechaRegistro": "2025-12-07T18:35:16.6854821-04:00",
+      "DoctorAsignado": null,
+      "ImagenPath": "C:\\Users\\WINDOWS 10\\Downloads\\Golden.jpeg"
+    },
+    "FechaAdopcion": "2025-12-07T00:00:00",
+    "Observaciones": "ninguna"
+  },
+  {
+    "NombreAdoptante": "Juan",
+    "Mascota": {
+      "Nombre": "Pupi",
+      "Raza": "Ordinaria",
+      "Edad": 8,
+      "Sexo": "Macho",
+      "Diagnostico": "Viejito",
+      "FechaRegistro": "2025-12-07T19:49:30.0686788-04:00",
+      "DoctorAsignado": null,
+      "ImagenPath": "C:\\Users\\WINDOWS 10\\Downloads\\negrito.jpg"
+    },
+    "FechaAdopcion": "2025-12-07T00:00:00",
+    "Observaciones": ""
+  }
+]

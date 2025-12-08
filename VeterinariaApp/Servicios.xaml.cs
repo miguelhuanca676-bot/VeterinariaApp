@@ -11,12 +11,14 @@ namespace VeterinariaApp
 
         private void BtnDonacion_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Funcionalidad de Donación (por implementar)");
+            DonacionWindow donacion = new DonacionWindow();
+            donacion.ShowDialog();
         }
 
         private void BtnAdopcion_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Funcionalidad de Adopción (por implementar)");
+            AdopcionWindow adopcion = new AdopcionWindow();
+            adopcion.ShowDialog();
         }
     }
 }

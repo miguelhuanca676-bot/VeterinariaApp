@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\VETERINARIA_APP\VeterinariaApp\App.xaml
-61608513295
+142044586888
 
-11250222474
+231965127486
 2002054085731
-HistorialClinico.xaml;Login.xaml;MainWindow.xaml;RegistrarCliente.xaml;RegistrarDoctor.xaml;Servicios.xaml;
+Adopcion.xaml;AgregarMascota.xaml;DetalleMascota.xaml;Donacion.xaml;HistorialClinico.xaml;Login.xaml;MainWindow.xaml;RegistrarAdopcion.xaml;RegistrarCliente.xaml;RegistrarDoctor.xaml;RegistrarDonacion.xaml;Servicios.xaml;VerAdopciones.xaml;VerDonaciones.xaml;
 
 False
 

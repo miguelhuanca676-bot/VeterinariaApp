@@ -1,0 +1,4 @@
+Jose|Caedenas|38|Cirugia|8
+Pedro|Murillo|45|Traumatologo|10
+Ferxo|Poma|62|General|10
+Pablo|Fernandez|54|Vacunas|5

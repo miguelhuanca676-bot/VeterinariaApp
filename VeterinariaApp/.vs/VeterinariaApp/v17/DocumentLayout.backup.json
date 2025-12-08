@@ -3,60 +3,148 @@
   "WorkspaceRootPath": "C:\\VETERINARIA_APP\\VeterinariaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\txthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:txthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\adopcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:adopcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\servicios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:servicios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\adopcion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:adopcion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\servicios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:servicios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\adopcioneshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:adopcioneshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrardoctor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrardoctor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\agregarmascota.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:agregarmascota.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrardoctor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrardoctor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\archivodoctores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:archivodoctores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\detallemascota.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:detallemascota.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\donacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:donacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\historialclinico.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:historialclinico.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\historialclinico.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:historialclinico.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\mascotashelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:mascotashelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registraradopcion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registraradopcion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrardoctor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrardoctor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrardonacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrardonacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\servicios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:servicios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\txthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:txthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\veradopciones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:veradopciones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\verdonaciones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:verdonaciones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\verdonaciones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:verdonaciones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrardoctor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrardoctor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\veradopciones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:veradopciones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\adopcion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:adopcion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registraradopcion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registraradopcion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\detallemascota.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:detallemascota.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrardonacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrardonacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\agregarmascota.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:agregarmascota.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\donacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:donacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\servicios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:servicios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\registrarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:registrarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|c:\\veterinaria_app\\veterinariaapp\\historialclinico.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB136BE-3641-4299-AC2B-9BB27F13AEC0}|VeterinariaApp.csproj|solutionrelative:historialclinico.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS 10\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -74,6 +162,162 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Clases.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Clases.cs",
+              "RelativeDocumentMoniker": "Clases.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Clases.cs",
+              "RelativeToolTip": "Clases.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:25:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:30:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArchivoDoctores.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\ArchivoDoctores.cs",
+              "RelativeDocumentMoniker": "ArchivoDoctores.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\ArchivoDoctores.cs",
+              "RelativeToolTip": "ArchivoDoctores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:45:50.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:30:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgregarMascota.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\AgregarMascota.xaml.cs",
+              "RelativeDocumentMoniker": "AgregarMascota.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\AgregarMascota.xaml.cs",
+              "RelativeToolTip": "AgregarMascota.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:16:35.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdopcionesHelper.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\AdopcionesHelper.cs",
+              "RelativeDocumentMoniker": "AdopcionesHelper.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\AdopcionesHelper.cs",
+              "RelativeToolTip": "AdopcionesHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:20:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adopcion.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Adopcion.xaml.cs",
+              "RelativeDocumentMoniker": "Adopcion.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Adopcion.xaml.cs",
+              "RelativeToolTip": "Adopcion.xaml.cs",
+              "ViewState": "AgIAAD8AAABA/v////8bwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:59:49.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adopcion.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Adopcion.cs",
+              "RelativeDocumentMoniker": "Adopcion.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Adopcion.cs",
+              "RelativeToolTip": "Adopcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:18:18.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleMascota.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\DetalleMascota.xaml.cs",
+              "RelativeDocumentMoniker": "DetalleMascota.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\DetalleMascota.xaml.cs",
+              "RelativeToolTip": "DetalleMascota.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:05:13.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Donacion.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Donacion.xaml.cs",
+              "RelativeDocumentMoniker": "Donacion.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Donacion.xaml.cs",
+              "RelativeToolTip": "Donacion.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:58:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HistorialClinico.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\HistorialClinico.xaml.cs",
+              "RelativeDocumentMoniker": "HistorialClinico.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\HistorialClinico.xaml.cs",
+              "RelativeToolTip": "HistorialClinico.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:46:45.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:26:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -86,32 +330,160 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegistrarCliente.xaml",
-              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarCliente.xaml",
-              "RelativeDocumentMoniker": "RegistrarCliente.xaml",
-              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarCliente.xaml",
-              "RelativeToolTip": "RegistrarCliente.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-04T00:33:41.503Z",
+              "DocumentIndex": 13,
+              "Title": "MascotasHelp.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\MascotasHelp.cs",
+              "RelativeDocumentMoniker": "MascotasHelp.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\MascotasHelp.cs",
+              "RelativeToolTip": "MascotasHelp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:30:53.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
+              "Title": "RegistrarAdopcion.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarAdopcion.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrarAdopcion.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarAdopcion.xaml.cs",
+              "RelativeToolTip": "RegistrarAdopcion.xaml.cs",
+              "ViewState": "AgIAADcAAACwmZmZmRkwwEMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:06:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "RegistrarCliente.xaml.cs",
               "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarCliente.xaml.cs",
               "RelativeDocumentMoniker": "RegistrarCliente.xaml.cs",
               "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarCliente.xaml.cs",
               "RelativeToolTip": "RegistrarCliente.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowB0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T00:33:50.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
+              "Title": "RegistrarDoctor.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDoctor.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrarDoctor.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDoctor.xaml.cs",
+              "RelativeToolTip": "RegistrarDoctor.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:43:59.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrarDonacion.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDonacion.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrarDonacion.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDonacion.xaml.cs",
+              "RelativeToolTip": "RegistrarDonacion.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T21:21:22.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Servicios.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Servicios.xaml.cs",
+              "RelativeDocumentMoniker": "Servicios.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Servicios.xaml.cs",
+              "RelativeToolTip": "Servicios.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:45:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TxtHelper.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\TxtHelper.cs",
+              "RelativeDocumentMoniker": "TxtHelper.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\TxtHelper.cs",
+              "RelativeToolTip": "TxtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T01:49:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VerAdopciones.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerAdopciones.xaml.cs",
+              "RelativeDocumentMoniker": "VerAdopciones.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerAdopciones.xaml.cs",
+              "RelativeToolTip": "VerAdopciones.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:39:43.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VerDonaciones.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerDonaciones.xaml",
+              "RelativeDocumentMoniker": "VerDonaciones.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerDonaciones.xaml",
+              "RelativeToolTip": "VerDonaciones.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T21:23:28.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VerDonaciones.xaml.cs",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerDonaciones.xaml.cs",
+              "RelativeDocumentMoniker": "VerDonaciones.xaml.cs",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerDonaciones.xaml.cs",
+              "RelativeToolTip": "VerDonaciones.xaml.cs",
+              "ViewState": "AgIAAB8AAACALzMzMzMmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T21:23:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Adopcion.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Adopcion.xaml",
+              "RelativeDocumentMoniker": "Adopcion.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Adopcion.xaml",
+              "RelativeToolTip": "Adopcion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:59:17.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VerAdopciones.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerAdopciones.xaml",
+              "RelativeDocumentMoniker": "VerAdopciones.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\VerAdopciones.xaml",
+              "RelativeToolTip": "VerAdopciones.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T23:39:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "RegistrarDoctor.xaml",
               "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDoctor.xaml",
               "RelativeDocumentMoniker": "RegistrarDoctor.xaml",
@@ -123,20 +495,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegistrarDoctor.xaml.cs",
-              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDoctor.xaml.cs",
-              "RelativeDocumentMoniker": "RegistrarDoctor.xaml.cs",
-              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDoctor.xaml.cs",
-              "RelativeToolTip": "RegistrarDoctor.xaml.cs",
-              "ViewState": "AgIAAAUAAADIzMzMzMwjwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:43:59.831Z",
+              "DocumentIndex": 26,
+              "Title": "RegistrarAdopcion.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarAdopcion.xaml",
+              "RelativeDocumentMoniker": "RegistrarAdopcion.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarAdopcion.xaml",
+              "RelativeToolTip": "RegistrarAdopcion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T23:01:34.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 27,
+              "Title": "DetalleMascota.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\DetalleMascota.xaml",
+              "RelativeDocumentMoniker": "DetalleMascota.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\DetalleMascota.xaml",
+              "RelativeToolTip": "DetalleMascota.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T22:04:39.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegistrarDonacion.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDonacion.xaml",
+              "RelativeDocumentMoniker": "RegistrarDonacion.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarDonacion.xaml",
+              "RelativeToolTip": "RegistrarDonacion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T21:17:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AgregarMascota.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\AgregarMascota.xaml",
+              "RelativeDocumentMoniker": "AgregarMascota.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\AgregarMascota.xaml",
+              "RelativeToolTip": "AgregarMascota.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T22:16:15.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Donacion.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Donacion.xaml",
+              "RelativeDocumentMoniker": "Donacion.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Donacion.xaml",
+              "RelativeToolTip": "Donacion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T20:57:31.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Servicios.xaml",
               "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Servicios.xaml",
               "RelativeDocumentMoniker": "Servicios.xaml",
@@ -148,33 +567,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Servicios.xaml.cs",
-              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Servicios.xaml.cs",
-              "RelativeDocumentMoniker": "Servicios.xaml.cs",
-              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Servicios.xaml.cs",
-              "RelativeToolTip": "Servicios.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:45:32.892Z",
+              "DocumentIndex": 32,
+              "Title": "RegistrarCliente.xaml",
+              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarCliente.xaml",
+              "RelativeDocumentMoniker": "RegistrarCliente.xaml",
+              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\RegistrarCliente.xaml",
+              "RelativeToolTip": "RegistrarCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T00:33:41.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TxtHelper.cs",
-              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\TxtHelper.cs",
-              "RelativeDocumentMoniker": "TxtHelper.cs",
-              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\TxtHelper.cs",
-              "RelativeToolTip": "TxtHelper.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T01:49:25.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 33,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -186,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 34,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Login.xaml",
               "RelativeDocumentMoniker": "Login.xaml",
@@ -198,20 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HistorialClinico.xaml.cs",
-              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\HistorialClinico.xaml.cs",
-              "RelativeDocumentMoniker": "HistorialClinico.xaml.cs",
-              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\HistorialClinico.xaml.cs",
-              "RelativeToolTip": "HistorialClinico.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:46:45.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 35,
               "Title": "HistorialClinico.xaml",
               "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\HistorialClinico.xaml",
               "RelativeDocumentMoniker": "HistorialClinico.xaml",
@@ -223,33 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Clases.cs",
-              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Clases.cs",
-              "RelativeDocumentMoniker": "Clases.cs",
-              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Clases.cs",
-              "RelativeToolTip": "Clases.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAA5wFEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:25:34.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\VETERINARIA_APP\\VeterinariaApp\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "Login.xaml.cs",
-              "ToolTip": "C:\\VETERINARIA_APP\\VeterinariaApp\\Login.xaml.cs",
-              "RelativeToolTip": "Login.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:26:47.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\WINDOWS 10\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
               "RelativeDocumentMoniker": "..\\..\\Users\\WINDOWS 10\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",

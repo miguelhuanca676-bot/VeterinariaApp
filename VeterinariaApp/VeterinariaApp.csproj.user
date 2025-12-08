@@ -2,10 +2,25 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="Adopcion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AgregarMascota.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DetalleMascota.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Donacion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="HistorialClinico.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegistrarAdopcion.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="RegistrarCliente.xaml.cs">
@@ -14,7 +29,16 @@
     <Compile Update="RegistrarDoctor.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="RegistrarDonacion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Servicios.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VerAdopciones.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VerDonaciones.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

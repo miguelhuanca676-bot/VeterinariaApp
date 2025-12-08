@@ -19,6 +19,8 @@
                 <DataGridTextColumn Header="Raza" Binding="{Binding Raza}" Width="*"/>
                 <DataGridTextColumn Header="Sexo" Binding="{Binding Sexo}" Width="*"/>
                 <DataGridTextColumn Header="Diagnóstico" Binding="{Binding Diagnostico}" Width="*"/>
+                <DataGridTextColumn Header="Doctor" Binding="{Binding DoctorAsignado}" Width="*"/>
+
                 <DataGridTextColumn Header="Fecha Registro" Binding="{Binding FechaRegistro}" Width="*"/>
             </DataGrid.Columns>
         </DataGrid>

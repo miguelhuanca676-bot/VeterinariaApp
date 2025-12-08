@@ -26,6 +26,8 @@ namespace VeterinariaApp
         public string Direccion { get; set; }
         public List<Mascota> Mascotas { get; set; }
 
+        public Veterinario DoctorAsignado { get; set; }
+
         public Cliente(string nombre, string apellido, int edad, string ci, string telefono, string direccion)
             : base(nombre, apellido, edad)
         {
@@ -49,7 +51,10 @@ namespace VeterinariaApp
     {
         public string Especialidad { get; set; }
         public int AñosExperiencia { get; set; }
-
+        public string InfoCompleta
+        {
+            get { return $"{Nombre} {Apellido} - {Especialidad}"; }
+        }
         public Veterinario(string nombre, string apellido, int edad, string especialidad, int añosExperiencia)
             : base(nombre, apellido, edad)
         {
@@ -73,6 +78,11 @@ namespace VeterinariaApp
         public string Sexo { get; set; }
         public string Diagnostico { get; set; }
         public DateTime FechaRegistro { get; set; }
+        public string? DoctorAsignado { get; set; }
+        public string ImagenPath { get; set; }
+
+
+
 
         public Mascota(string nombre, string raza, int edad, string sexo, string diagnostico)
         {

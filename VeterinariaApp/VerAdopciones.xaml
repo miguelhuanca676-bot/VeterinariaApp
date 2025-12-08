@@ -1,0 +1,22 @@
+﻿<Window x:Class="VeterinariaApp.VerAdopcionesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ver Adopciones" Height="450" Width="600"
+        Background="#FAFAFA" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Adopciones Registradas" FontSize="24" FontWeight="Bold"
+                       HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <DataGrid Name="dgAdopciones" AutoGenerateColumns="False" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Adoptante" Binding="{Binding NombreAdoptante}" Width="*"/>
+                    <DataGridTextColumn Header="Mascota" Binding="{Binding Mascota.Nombre}" Width="*"/>
+                    <DataGridTextColumn Header="Fecha" Binding="{Binding FechaAdopcion, StringFormat=d}" Width="*"/>
+                    <DataGridTextColumn Header="Observaciones" Binding="{Binding Observaciones}" Width="2*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

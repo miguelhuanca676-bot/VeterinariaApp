@@ -14,8 +14,9 @@ namespace VeterinariaApp
             {
                 foreach (var mascota in cliente.Mascotas)
                 {
-                    // Formato: CI|Nombre|Apellido|Edad|Telefono|Direccion|MascotaNombre|Raza|EdadMascota|Sexo|Diagnostico|Fecha
-                    string linea = $"{cliente.CI}|{cliente.Nombre}|{cliente.Apellido}|{cliente.Edad}|{cliente.Telefono}|{cliente.Direccion}|{mascota.Nombre}|{mascota.Raza}|{mascota.Edad}|{mascota.Sexo}|{mascota.Diagnostico}|{mascota.FechaRegistro}";
+                    // Formato: CI|Nombre|Apellido|Edad|Telefono|Direccion|MascotaNombre|Raza|EdadMascota|Sexo|Diagnostico|FechaRegistro|DoctorAsignado
+                    string fechaString = mascota.FechaRegistro.ToString("yyyy-MM-dd HH:mm:ss");
+                    string linea = $"{cliente.CI}|{cliente.Nombre}|{cliente.Apellido}|{cliente.Edad}|{cliente.Telefono}|{cliente.Direccion}|{mascota.Nombre}|{mascota.Raza}|{mascota.Edad}|{mascota.Sexo}|{mascota.Diagnostico}|{fechaString}|{mascota.DoctorAsignado}";
                     sw.WriteLine(linea);
                 }
             }
@@ -32,20 +33,37 @@ namespace VeterinariaApp
             foreach (var linea in lineas)
             {
                 string[] datos = linea.Split('|');
+
+                // Validar que haya suficientes campos
+                if (datos.Length < 13)
+                    continue;
+
                 if (datos[0] == ci)
                 {
-                    // Convertir Edad de mascota de string a int
-                    int edadMascota = int.Parse(datos[8]);
-                    string nombre = datos[6];
-                    string raza = datos[7];
-                    string sexo = datos[9];
-                    string diagnostico = datos[10];
-                    DateTime fecha = DateTime.Parse(datos[11]);
+                    try
+                    {
+                        // Datos de la mascota
+                        string nombre = datos[6];
+                        string raza = datos[7];
+                        int edadMascota = int.Parse(datos[8]);
+                        string sexo = datos[9];
+                        string diagnostico = datos[10];
+                        DateTime fecha = DateTime.Parse(datos[11]);
+                        string doctorAsignado = datos[12];
 
-                    Mascota m = new Mascota(nombre, raza, edadMascota, sexo, diagnostico);
-                    m.FechaRegistro = fecha;
+                        Mascota m = new Mascota(nombre, raza, edadMascota, sexo, diagnostico)
+                        {
+                            FechaRegistro = fecha,
+                            DoctorAsignado = doctorAsignado
+                        };
 
-                    mascotas.Add(m);
+                        mascotas.Add(m);
+                    }
+                    catch
+                    {
+                        // Si hay algún error en la conversión, se omite la línea
+                        continue;
+                    }
                 }
             }
 

@@ -1,0 +1,28 @@
+﻿<Window x:Class="VeterinariaApp.RegistrarAdopcionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registrar Adopción" Height="400" Width="400"
+        Background="#E3F2FD" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="Registrar Adopción" FontSize="24" FontWeight="Bold"
+                       HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <Label Content="Nombre del Adoptante"/>
+            <TextBox Name="txtNombreAdoptante"/>
+
+            <Label Content="Mascota"/>
+            <TextBox Name="txtNombreMascota" IsReadOnly="True"/>
+
+            <Label Content="Fecha"/>
+            <DatePicker Name="dpFecha"/>
+
+            <Label Content="Observaciones"/>
+            <TextBox Name="txtObservaciones" Height="80" AcceptsReturn="True" TextWrapping="Wrap"/>
+
+            <Button Content="Confirmar Adopción" Height="40" Background="#2196F3" Foreground="White"
+                    FontWeight="Bold" Margin="0,20,0,0" Click="BtnConfirmarAdopcion_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

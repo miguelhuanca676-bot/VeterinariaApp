@@ -1,0 +1,42 @@
+[
+  {
+    "Nombre": "Bowie",
+    "Raza": "Golden Retriver",
+    "Edad": 2,
+    "Sexo": "Macho",
+    "Diagnostico": "Sin novedad",
+    "FechaRegistro": "2025-12-07T19:28:24.6997988-04:00",
+    "DoctorAsignado": null,
+    "ImagenPath": "C:\\Users\\WINDOWS 10\\Downloads\\Golden.jpeg"
+  },
+  {
+    "Nombre": "Apolo",
+    "Raza": "Husky",
+    "Edad": 1,
+    "Sexo": "Macho",
+    "Diagnostico": "Sin enfermedades",
+    "FechaRegistro": "2025-12-07T19:48:13.2880998-04:00",
+    "DoctorAsignado": null,
+    "ImagenPath": "C:\\Users\\WINDOWS 10\\Downloads\\husky.jpeg"
+  },
+  {
+    "Nombre": "Roxky",
+    "Raza": "Salchicha",
+    "Edad": 5,
+    "Sexo": "Hembra",
+    "Diagnostico": "Sin Observaciones",
+    "FechaRegistro": "2025-12-07T19:48:58.039969-04:00",
+    "DoctorAsignado": null,
+    "ImagenPath": "C:\\Users\\WINDOWS 10\\Downloads\\salchicha.jpg"
+  },
+  {
+    "Nombre": "Chiki",
+    "Raza": "Ordinario",
+    "Edad": 1,
+    "Sexo": "Macho",
+    "Diagnostico": "Recogido de la calle",
+    "FechaRegistro": "2025-12-07T20:04:14.5570941-04:00",
+    "DoctorAsignado": null,
+    "ImagenPath": "C:\\Users\\WINDOWS 10\\Downloads\\negrito.jpg"
+  }
+]
